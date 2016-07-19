@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.0" xmlns:d4="http://www.4d.com/d4-ns">
+  <file datatype="x-STR#" original="undefined" product-version="v15" source-language="en-US" target-language="en-US">
+    <header>
+      <note>4D Summit 2016</note>
+    </header>
+    <body>
+
+      <group resname="themes">
+        <trans-unit id="54F53577006B4BF8AB6C4EB296421450" resname="54F53577006B4BF8AB6C4EB296421450" translate="no">
+          <source>Account settings</source>
+        </trans-unit>
+      </group>
+
+      <group d4:groupName="54F53577006B4BF8AB6C4EB296421450" restype="x-4DK#">
+        <trans-unit d4:value="BuildApps" id="54F53577006B4BF8AB6C4EB296421450.1">
+          <source>Local projects folder name</source>
+        </trans-unit>
+        <trans-unit d4:value="standalone" id="54F53577006B4BF8AB6C4EB296421450.2">
+          <source>Standalone application name</source>
+        </trans-unit>
+        <trans-unit d4:value="" id="54F53577006B4BF8AB6C4EB296421450.3">
+          <source>Upload username</source>
+        </trans-unit>
+        <trans-unit d4:value="" id="54F53577006B4BF8AB6C4EB296421450.4">
+          <source>Upload password</source>
+        </trans-unit>
+        <trans-unit d4:value="" id="54F53577006B4BF8AB6C4EB296421450.5">
+          <source>Upload path</source>
+        </trans-unit>
+        <trans-unit d4:value="timestamp" id="54F53577006B4BF8AB6C4EB296421450.6">
+          <source>Timestamp folder name</source>
+        </trans-unit>
+        <trans-unit d4:value="timestamp" id="54F53577006B4BF8AB6C4EB296421450.7">
+          <source>Timestamp file name</source>
+        </trans-unit>
+      </group>
+
+    </body>
+  </file>
+</xliff>
