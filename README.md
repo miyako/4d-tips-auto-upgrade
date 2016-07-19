@@ -16,3 +16,7 @@ Example of automated upgrade of 4D, using curl (FTP), zip, unzip
 * アップロード先FTPユーザー名，パスワード，パスが空
 
 ``Resources/auto-update.xlf``内22, 25, 29行目
+
+Windowsプラットフォームでは``StartElevated``キーの設定も必要かもしれません。
+
+http://doc.4d.com/4Dv15/4D/15/Overview.300-2399981.ja.html
